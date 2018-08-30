@@ -13,3 +13,6 @@ Simply retrieve the script and run it from the internet directly like below;
 ### Caution:
 I am not responsible for the use of this script in any way shape or form. This script was designed as research
 and educational purposes only. You've been warned.
+
+### License:
+http://www.wtfpl.net/txt/copying/
