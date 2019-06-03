@@ -1,5 +1,5 @@
 # evil-bash
-# FOR EDUCATIONAL PURPOSES ONLY
+**FOR EDUCATIONAL PURPOSES ONLY**
 A nasty bash script, used as a lesson on why to never run scripts directly from the internet.
 
 I don't take full credit for this as I was inspired by a user on twitter for this one. 
